@@ -75,13 +75,3 @@ Explore the critical decisions made to:
 3. Python environment with Streamlit installed.
 
 ---
-
-## How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/rahulsql/SWIGGY_Project_In_Snowflake.git
-   cd SWIGGY_Project_In_Snowflake
-streamlit run dashboard.py
-
-Feel free to customize it further based on your project's specifics! Let me know if you want me to add or refine any section.
